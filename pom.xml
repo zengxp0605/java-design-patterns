@@ -6,6 +6,7 @@
 
     <groupId>com.stan</groupId>
     <artifactId>java-design-patterns</artifactId>
+    <name>java-design-patterns</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
