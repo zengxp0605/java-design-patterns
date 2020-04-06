@@ -16,6 +16,7 @@
 
     <modules>
         <module>01-proxy</module>
+        <module>02-singleton</module>
     </modules>
 
 </project>
