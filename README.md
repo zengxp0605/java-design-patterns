@@ -15,6 +15,7 @@ Java 设计模式
 
 
 ## 02-singleton 单例模式
+Spring中，通过@Autowired注入的依赖，默认是单例模式的
 
 ## 03-factory 工厂模式
 > 关注结果
