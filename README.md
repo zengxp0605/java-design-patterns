@@ -33,3 +33,9 @@ Spring中，通过@Autowired注入的依赖，默认是单例模式的
 看起来代码变多来，实际是解藕，代码方便维护
 结合策略模式修改 AbstractFactory 类，代码更优雅
 
+## 04-strategy-base 策略模式
+- 本例为基础版本策略模式
+- springboot注解实现策略模式 @Autowired： <https://github.com/zengxp0605/spring-boot-mydemo/tree/master/13-springboot-strategy>
+
+
+
