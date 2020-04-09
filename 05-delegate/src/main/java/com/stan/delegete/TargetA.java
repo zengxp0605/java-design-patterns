@@ -7,7 +7,7 @@ package com.stan.delegete;
  * @Modified By：
  */
 public class TargetA implements ITarget {
-    public void doWork() {
+    public void doWork(String command) {
         System.out.println("TargetA doWork: encrypt ");
     }
 }

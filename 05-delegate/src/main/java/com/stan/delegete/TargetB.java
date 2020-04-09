@@ -7,7 +7,7 @@ package com.stan.delegete;
  * @Modified By：
  */
 public class TargetB implements ITarget {
-    public void doWork() {
+    public void doWork(String command) {
         System.out.println("TargetB doWork: sell ");
     }
 }

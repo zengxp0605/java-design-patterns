@@ -4,5 +4,5 @@ package com.stan.delegete;
  *
  */
 public interface ITarget {
-   void doWork();
+   void doWork(String command);
 }
